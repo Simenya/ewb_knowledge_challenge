@@ -18,11 +18,25 @@
 	-webkit-tap-highlight-color: transparent;
 }
 @font-face{
+    font-family: 'Comic Sans MS';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Comic Sans MS'),
+         url('resources/font_0.woff');
+}
+@font-face{
+    font-family: 'Copperplate Gothic Bold';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Copperplate Gothic Bold'),
+         url('resources/font_1.woff');
+}
+@font-face{
     font-family: 'Tahoma';
     font-style: normal;
     font-weight: 400;
     src: local('Tahoma'),
-         url('resources/font_4.woff');
+         url('resources/font_2.woff');
 }
 
 
